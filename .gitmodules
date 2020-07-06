@@ -1,3 +1,21 @@
 [submodule "ProductService"]
 	path = ProductService
 	url = https://github.com/vindzhev/Microservices.ProductService.git
+[submodule "PricingService"]
+	path = PricingService
+	url = https://github.com/vindzhev/Microservices.PricingService.git
+[submodule "PolicyService"]
+	path = PolicyService
+	url = https://github.com/vindzhev/Microservices.PolicyService.git
+[submodule "PolicySearchService"]
+	path = PolicySearchService
+	url = https://github.com/vindzhev/Microservices.PolicySearchService.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/vindzhev/Microservices.PaymentService.git
+[submodule "AuthenticationService"]
+	path = AuthenticationService
+	url = https://github.com/vindzhev/Microservices.AuthenticationService.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/vindzhev/Microservices.ApiGateway.git
