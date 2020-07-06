@@ -19,3 +19,9 @@
 [submodule "ApiGateway"]
 	path = ApiGateway
 	url = https://github.com/vindzhev/Microservices.ApiGateway.git
+[submodule "Web"]
+	path = Web
+	url = https://github.com/vindzhev/Microservices.WebUI.git
+[submodule "Shared"]
+	path = Shared
+	url = https://github.com/vindzhev/Microservices.Shared.git
