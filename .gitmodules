@@ -1,0 +1,3 @@
+[submodule "ProductService"]
+	path = ProductService
+	url = https://github.com/vindzhev/Microservices.ProductService.git
