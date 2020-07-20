@@ -88,6 +88,8 @@ services:
             - 9998:80
         environment:
             - ASPNETCORE_ENVIRONMENT=Development
+        depends_on:
+            - postgres.sql
 
     api.gateway:
         image: api_gateway:latest
