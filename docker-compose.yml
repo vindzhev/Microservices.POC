@@ -79,6 +79,7 @@ services:
             - postgres.sql
 
     authentication.service:
+        hostname: authentication.service
         image: authentication_service:latest
         container_name: authentication_service
         build:
